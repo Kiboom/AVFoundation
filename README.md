@@ -3,8 +3,8 @@ AV Foundation 스터디 교재인 [Learning AV Foundation](https://itunes.apple.
 
 
 ## 목차
-* [Tools](https://oss.navercorp.com/Kiboom/AVFoundation#tools)
-* [Purpose](https://oss.navercorp.com/Kiboom/AVFoundation#purpose)
+* [Tools](https://github.com/Kiboom/AVFoundation#tools)
+* [Purpose](https://github.com/Kiboom/AVFoundation#purpose)
 
 ## Tools
 * 📕 Learning AV Foundation by Bob McCune ([구매하기](https://itunes.apple.com/us/book/learning-av-foundation/id934379880?mt=11))
