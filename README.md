@@ -18,24 +18,24 @@ AV Foundation 스터디 교재인 [Learning AV Foundation](https://itunes.apple.
 * **Part I: AV Foundation Essentials**
 	> | Chapter | Subject | Question | Description | 
 	> |:---:| :--- | :--- | :--- |
-	> |1|[Getting Started with AV Foundation](https://github.com/fimuxd/RxSwift/blob/master/Lectures/01_HelloRxSwift/Ch.1%20Hello%20RxSwift.md) | - | - |
-	> |2|[Playing and Recording Audio](https://github.com/fimuxd/RxSwift/blob/master/Lectures/02_Observables/Ch2.%20Observables.md) | - | - |
-	> |3|[Working with Assets and Metadata](https://github.com/fimuxd/RxSwift/blob/master/Lectures/03_Subjects/Ch3.%20Subjects.md) | - | - |
-	> |4|[Playing Video](https://github.com/fimuxd/RxSwift/blob/master/Lectures/04_ObservablesAndSubjectsInPractice/Ch4.ObservablesAndSubjectsInPractice.md)| - | - |
-  > |5|[Using AV Kit](https://github.com/fimuxd/RxSwift/blob/master/Lectures/04_ObservablesAndSubjectsInPractice/Ch4.ObservablesAndSubjectsInPractice.md)| - | - |
+	> |1|[Getting Started with AV Foundation](https://github.com/Kiboom/AVFoundation/blob/master/01%20Getting%20Started%20with%20AV%20Foundation.md) | - | - |
+	> |2|[Playing and Recording Audio]() | - | - |
+	> |3|[Working with Assets and Metadata]() | - | - |
+	> |4|[Playing Video]()| - | - |
+  > |5|[Using AV Kit]()| - | - |
 
 * **Part II: Media Capture**
 	> | Chapter | Subject | Question | Description | 
 	> |:---:| :--- | :---: | :--- |
-	> |6|[Capturing Media](https://github.com/fimuxd/RxSwift/blob/master/Lectures/05_Filtering%20Operators/Ch5.%20FilteringOperators.md)| - | - |
-	> |7|[Using Advanced Capture Features](https://github.com/fimuxd/RxSwift/blob/master/Lectures/07_Transforming%20Operators/CH7_TransformingOperators.md)| - | - |
-	> |8|[Reading and Writing Media](https://github.com/fimuxd/RxSwift/blob/master/Lectures/08_Transforming%20Operators%20in%20Practice/Ch.8%20Transforming%20Operators%20in%20Practice.md)| - | - |
+	> |6|[Capturing Media]()| - | - |
+	> |7|[Using Advanced Capture Features]()| - | - |
+	> |8|[Reading and Writing Media]()| - | - |
 
 * **Part III: Media Creation and Editing**
 	> | Chapter | Subject | Question | Description | 
 	> |:---:| :--- | :---: | :--- |
-	> |9|[Composing and Editing Media](https://github.com/fimuxd/RxSwift/blob/master/Lectures/09_Combining%20Operators/Ch9.CombiningOperators.md)| - | - |
-	> |10|[Mixing Audio](https://github.com/fimuxd/RxSwift/blob/master/Lectures/10_Combining%20Operators%20in%20Practice/Ch.10%20Combining%20Operators%20in%20Practice.md)| - | - |
-	> |11|[Building Video Transitions](https://github.com/fimuxd/RxSwift/blob/master/Lectures/11_Time%20Based%20Operators/Time%20Based%20Operators.md)| - | - |
-	> |12|[Layering Animated Content](https://github.com/fimuxd/RxSwift/blob/master/Lectures/12_Beginning%20RxCocoa/Ch12.%20Beginning%20RxCocoa.md)| - | - |
+	> |9|[Composing and Editing Media]()| - | - |
+	> |10|[Mixing Audio]()| - | - |
+	> |11|[Building Video Transitions]()| - | - |
+	> |12|[Layering Animated Content]()| - | - |
 
